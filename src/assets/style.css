@@ -1,8 +1,8 @@
-@import url('https://use.fontawesome.com/releases/v5.8.1/css/all.css');
+@import url('https://use.fontawesome.com/releases/v6.0.0/css/all.css');
 
 
 #main {
-    background-image: url("images/gruvbox-wallpapers/wallpapers/irl/berries.jpg");
+    /*background-image: url("images/gruvbox-wallpapers/wallpapers/irl/berries.jpg");*/
     background-size: cover;
     background-position: center;
     height: 100vh;
